@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "category": "Shipping & Delivery",
+    "question": "How long does shipping take? delivery time arrive days estimated arrival when will package arrive",
+    "answer": "Standard shipping typically takes 5\u20137 business days from the date your order is confirmed. Please note that processing time (1\u20132 business days) is not included in this estimate."
+  },
+  {
+    "id": 2,
+    "category": "Shipping & Delivery",
+    "question": "Do you offer express or overnight delivery?",
+    "answer": "Yes! We offer Express Shipping (2\u20133 business days) and Overnight Shipping (next business day) at checkout. Additional fees apply based on your location and order weight."
+  },
+  {
+    "id": 3,
+    "category": "Shipping & Delivery",
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, you will receive a confirmation email with a tracking number. You can use this number on our website under 'Track My Order' or directly on the courier's website."
+  },
+  {
+    "id": 4,
+    "category": "Shipping & Delivery",
+    "question": "Do you ship internationally? deliver to other countries overseas worldwide international shipping abroad",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping typically takes 10\u201321 business days. Customs duties and import taxes may apply and are the responsibility of the customer."
+  },
+  {
+    "id": 5,
+    "category": "Shipping & Delivery",
+    "question": "Is free shipping available? free delivery no shipping cost complimentary shipping",
+    "answer": "We offer free standard shipping on all domestic orders over $50. Orders below $50 are charged a flat shipping fee of $4.99."
+  },
+  {
+    "id": 6,
+    "category": "Shipping & Delivery",
+    "question": "My package has not arrived. What should I do? order not showing up missing package not here yet delivery late",
+    "answer": "If your package has not arrived within the estimated delivery window, please first check the tracking information. If the tracking shows delivered but you haven't received it, contact our support team within 7 days and we will investigate and resolve the issue."
+  },
+  {
+    "id": 7,
+    "category": "Shipping & Delivery",
+    "question": "Can I change my shipping address after placing an order? update delivery address change shipping address modify destination",
+    "answer": "You can change your shipping address only if the order has not yet been dispatched. Please contact our support team immediately with your order number and the new address. Once shipped, address changes are not possible."
+  },
+  {
+    "id": 8,
+    "category": "Shipping & Delivery",
+    "question": "What courier or delivery service do you use?",
+    "answer": "We partner with FedEx, UPS, and USPS for domestic shipments, and DHL for international orders. The courier assigned to your order depends on your location and selected shipping method."
+  },
+  {
+    "id": 9,
+    "category": "Returns & Refunds",
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 30 days of delivery. Items must be unused, unwashed, and in their original packaging with all tags attached. Sale items and gift cards are non-refundable."
+  },
+  {
+    "id": 10,
+    "category": "Returns & Refunds",
+    "question": "How do I initiate a return? send something back how to return item sending back returning a product",
+    "answer": "To start a return, log in to your account, go to 'My Orders', select the item you want to return, and click 'Request Return'. You will receive a prepaid return shipping label via email within 24 hours."
+  },
+  {
+    "id": 11,
+    "category": "Returns & Refunds",
+    "question": "How long does it take to receive my refund? how many days until money back refund time get my money back",
+    "answer": "Once we receive and inspect your returned item, refunds are processed within 3\u20135 business days. The amount will be credited to your original payment method. Bank processing may take an additional 3\u20137 business days."
+  },
+  {
+    "id": 12,
+    "category": "Returns & Refunds",
+    "question": "Can I exchange an item instead of returning it?",
+    "answer": "Yes, exchanges are available for items of a different size or color, subject to stock availability. To request an exchange, follow the same steps as initiating a return and select 'Exchange' instead of 'Refund'."
+  },
+  {
+    "id": 13,
+    "category": "Returns & Refunds",
+    "question": "Who pays for return shipping?",
+    "answer": "If the return is due to a defective, damaged, or incorrect item, we cover the return shipping cost. For change-of-mind returns, a $5.99 return shipping fee is deducted from your refund."
+  },
+  {
+    "id": 14,
+    "category": "Returns & Refunds",
+    "question": "I received a damaged or wrong item. What do I do?",
+    "answer": "We sincerely apologize for this inconvenience. Please contact our support team within 48 hours of delivery with your order number and photos of the item. We will arrange a free return and send a replacement or issue a full refund immediately."
+  },
+  {
+    "id": 15,
+    "category": "Returns & Refunds",
+    "question": "Can I return a gift I received?",
+    "answer": "Yes, gifts can be returned for store credit. You will need the order number from the original purchase. The refund will be issued as a gift card to your email, not to the original payment method."
+  },
+  {
+    "id": 16,
+    "category": "Payments & Billing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, MasterCard, American Express, Discover, PayPal, Apple Pay, Google Pay, and Shop Pay. All transactions are secured with SSL encryption."
+  },
+  {
+    "id": 17,
+    "category": "Payments & Billing",
+    "question": "Is it safe to use my credit card on your website?",
+    "answer": "Absolutely. Our website uses 256-bit SSL encryption and is PCI-DSS compliant. We never store your full card details on our servers. Your payment information is handled securely by our payment processor."
+  },
+  {
+    "id": 18,
+    "category": "Payments & Billing",
+    "question": "Can I pay in installments or use buy now pay later?",
+    "answer": "Yes, we offer Buy Now Pay Later through Klarna and Afterpay at checkout. You can split your purchase into 4 interest-free installments. Eligibility is determined by the provider."
+  },
+  {
+    "id": 19,
+    "category": "Payments & Billing",
+    "question": "Why was my payment declined? card was rejected card refused transaction failed payment not working card not accepted",
+    "answer": "Payments can be declined due to incorrect card details, insufficient funds, or your bank flagging the transaction. Please double-check your billing information, ensure you have sufficient funds, and try again. You can also contact your bank or try a different payment method."
+  },
+  {
+    "id": 20,
+    "category": "Payments & Billing",
+    "question": "Will I be charged tax on my order?",
+    "answer": "Sales tax is applied to orders based on your shipping address and applicable local tax laws. The exact tax amount will be displayed at checkout before you confirm your purchase."
+  },
+  {
+    "id": 21,
+    "category": "Payments & Billing",
+    "question": "How do I apply a discount code or coupon? promo code enter voucher where to put discount code promotional code",
+    "answer": "On the checkout page, you will find a 'Discount Code' field. Enter your code and click 'Apply'. The discount will be reflected in your order total immediately. Only one discount code can be applied per order."
+  },
+  {
+    "id": 22,
+    "category": "Order Management",
+    "question": "How do I cancel my order? stop order from being sent cancel before dispatch prevent shipment",
+    "answer": "Orders can be cancelled within 1 hour of placement, before they enter processing. Go to 'My Orders' in your account and click 'Cancel Order'. After 1 hour, orders cannot be cancelled but you may return the item once received."
+  },
+  {
+    "id": 23,
+    "category": "Order Management",
+    "question": "Can I modify or edit my order after placing it?",
+    "answer": "Order modifications (changing size, color, or quantity) are only possible within 1 hour of placing the order. Contact support immediately with your order number and the changes needed. After processing begins, modifications are not possible."
+  },
+  {
+    "id": 24,
+    "category": "Order Management",
+    "question": "Where can I see my order history?",
+    "answer": "Your complete order history is available under 'My Orders' in your account dashboard. Each order shows the date, items, total amount, payment status, and current fulfillment status."
+  },
+  {
+    "id": 25,
+    "category": "Order Management",
+    "question": "I did not receive an order confirmation email. What should I do? never got confirmation email no purchase email missing order email",
+    "answer": "Please check your spam or junk mail folder first. If it is not there, make sure the email address on your account is correct. You can also find your order confirmation under 'My Orders'. If the problem persists, contact our support team."
+  },
+  {
+    "id": 26,
+    "category": "Order Management",
+    "question": "Can I place a bulk or wholesale order?",
+    "answer": "Yes, we support bulk orders for businesses and organizations. Please contact our wholesale team at wholesale@store.com with your requirements. Bulk pricing and custom invoicing are available for orders above 50 units."
+  },
+  {
+    "id": 27,
+    "category": "Account & Profile",
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' at the top right of any page. Enter your name, email address, and a secure password. You will receive a verification email \u2014 click the link to activate your account."
+  },
+  {
+    "id": 28,
+    "category": "Account & Profile",
+    "question": "I forgot my password. How do I reset it? reset login password forgot credentials change password",
+    "answer": "On the login page, click 'Forgot Password'. Enter your registered email address and we will send you a password reset link. The link expires after 30 minutes. Check your spam folder if you don't see the email."
+  },
+  {
+    "id": 29,
+    "category": "Account & Profile",
+    "question": "How do I update my personal information or email address?",
+    "answer": "Log in to your account and go to 'Account Settings'. From there you can update your name, phone number, email address, and password. Changes to your email require re-verification via a confirmation link."
+  },
+  {
+    "id": 30,
+    "category": "Account & Profile",
+    "question": "How do I delete my account? permanently delete profile remove account close account",
+    "answer": "To permanently delete your account, go to 'Account Settings' and select 'Delete Account' at the bottom of the page. Please note this action is irreversible and all your order history and saved data will be erased. Active orders must be completed before deletion."
+  },
+  {
+    "id": 31,
+    "category": "Shipping & Delivery",
+    "question": "What happens if nobody is home when my package is delivered?",
+    "answer": "If no one is available to receive the package, the courier will typically leave a delivery notice and attempt redelivery the next business day. After 2 failed attempts, the package is held at the nearest courier facility for up to 7 days before being returned to us."
+  },
+  {
+    "id": 32,
+    "category": "Returns & Refunds",
+    "question": "Can I return an item bought on sale?",
+    "answer": "Sale items are final sale and are not eligible for return or refund unless they arrive damaged or defective. Please review the product page carefully before purchasing discounted items."
+  },
+  {
+    "id": 33,
+    "category": "Payments & Billing",
+    "question": "Do you offer gift cards?",
+    "answer": "Yes, we sell digital gift cards in denominations of $10, $25, $50, and $100. Gift cards are delivered via email within minutes of purchase and never expire. They can be used for any item on our store."
+  },
+  {
+    "id": 34,
+    "category": "Account & Profile",
+    "question": "How do I save items to a wishlist?",
+    "answer": "Click the heart icon on any product page to save it to your Wishlist. You must be logged in to use this feature. Access your saved items anytime under 'My Wishlist' in your account menu."
+  }
+]
